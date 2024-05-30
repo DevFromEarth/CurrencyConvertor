@@ -1,5 +1,4 @@
 import "./Currency.css";
-import {useEffect,useState} from "react";
  
 export default function Currency({setCurrencyCode,inputValue,setinputValue,supportedCodes, onClick}) {
 
