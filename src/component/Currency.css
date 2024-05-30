@@ -1,0 +1,20 @@
+.currency {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+select {
+  border: none;
+  width: 174px;
+}
+
+input {
+  border: none;
+  background: #EFEFEF;
+  border-radius: 10px;
+  width: 141px;
+  box-sizing: border-box;
+  height: 45px;
+  padding: 0 8px;
+}

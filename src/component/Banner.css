@@ -1,0 +1,20 @@
+
+.Banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  color: #1F2261;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: sans-serif; 
+}
+
+p{
+  margin: 16px;
+  color: #808080;
+  text-align: center;
+}
